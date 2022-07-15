@@ -35,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=med16-11&show_icons=true&locale=en" alt="med16-11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=med16-11&" alt="med16-11" /></p>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Med16-11&theme=github"/>
+</div>
