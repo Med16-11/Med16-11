@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Medhavi Singh</h1>
-<h3 align="center">A CSE Sophomore who loves exploring new fields</h3>
+<h3 align="center">A CSE Pre-Final Year student who loves exploring new fields</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=med16-11&label=Profile%20views&color=0e75b6&style=flat" alt="med16-11" /> </p>
 
