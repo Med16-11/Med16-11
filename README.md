@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **My Personal Projects**
 
-- 🌱 I’m currently learning **PHP,DSA,**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **any projects in which I can help**
-
-- 🤝 I’m looking for help with **Data structure and algo**
 
 - 💬 Ask me about **Frontend Development**
 
