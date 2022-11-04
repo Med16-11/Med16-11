@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **singhmedhavi923@gmail.com**
 
-- ⚡ Fun fact **I can draw and pretty good at it**
+- ⚡ Fun fact **I know hoe to draw Mehndi(Heena)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
