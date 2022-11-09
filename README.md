@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Personal Projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **any projects in which I can help**
 
