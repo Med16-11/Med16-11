@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👯 I’m looking to collaborate on **any projects in which I can help**
+- 👯 I’m looking to collaborate on **any projects in which I can help**.
 
 - 💬 Ask me about **Frontend Development**
 
