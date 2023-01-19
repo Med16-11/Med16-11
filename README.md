@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any projects in which I can help**.
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development and Cloud Computing**
 
 - 📫 How to reach me **singhmedhavi923@gmail.com**
 
