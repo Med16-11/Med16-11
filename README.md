@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, 👋 I am Medhavi Singh</h1>
-<h3 align="center">A CSE Final Year student who loves exploring new tech fields.</h3>
+<h3 align="center">A CSE Final Year student who loves exploring new tech fields</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=med16-11&label=Profile%20views&color=0e75b6&style=flat" alt="med16-11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=med16-11" alt="med16-11" /></a> </p>
