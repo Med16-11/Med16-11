@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
-
 - 👯 I’m looking to collaborate on **any projects in which I can help**.
 
 - 💬 Ask me about **Frontend Development , Cloud Computing and DevOps**
-
-- 📫 How to reach me **singhmedhavi923@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
